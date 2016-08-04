@@ -1,0 +1,31 @@
+_repo: Tales-of-Trail-and-Town_2550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Western stories'
+- GITenberg
+tableOfContents: The ancestors of Peter Atherly -- Two Americans -- The judgement
+  of Bolinas Plain -- The strange experience of Alkali Dick -- A night on the divide
+  -- The youngest prospector in Calaveras -- A tale of three truants.
+title: Tales of Trail and Town
+url: http://www.gutenberg.org/ebooks/2550
